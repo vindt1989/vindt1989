@@ -1,16 +1,19 @@
-## Hi there 👋
+# Marce Ríos Schvindt · @vindt1989
 
-<!--
-**vindt1989/vindt1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Emprendedor y product manager con foco en AI aplicada a negocios reales.
 
-Here are some ideas to get you started:
+Subo experimentos, agentes y herramientas pensadas para personas 
+de negocio — no para developers. Casos de uso de marketing y negocios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Entrepreneur and product manager focused on AI applied to real business.
+
+I publish experiments, agents, and tools designed for business people —not developers. 
+Marketing and business use cases.
+
+---
+
+📍 Buenos Aires, Argentina
+🐦 X: @vindt1989
+💼 LinkedIn: linkedin.com/in/riossmarcelo
